@@ -13,3 +13,5 @@ permalink: LINKS/
   This video covers authentication, authorization, and the four levels of security measures. It shows how these concepts relate to one another.
 * [Security Problems and Security Threads](https://www.youtube.com/watch?v=3kKkOBClw1Q){:target="_blank"} ---
   This video covers authentication, authorization, and the four levels of security measures. It shows how these concepts relate to one another.
+* [Filesystem in Userspace](https://en.wikipedia.org/wiki/Filesystem_in_Userspace){:target="blank"} ---
+  This article discusses Filesystem in Userspace. It helped me understand its history and applications, as there are lots of sources used in the article.
