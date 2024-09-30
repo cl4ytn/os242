@@ -17,3 +17,10 @@ ZCZC W03 10 L40 TXT/ related in general.
 ZCZC W03 10 L22 Linux CLI including tar, etc.
 ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 150 L14 Working on assignment W04
+ZCZC W04 30 L03 GitHub related
+ZCZC W04 60 L05 Preparing for quiz and studying
+ZCZC W04 15 L04 GitHub Pages related
+ZCZC W04 45 L32 Learning about process management in OS
+ZCZC W04 20 L06 Reviewing resources for W04
+

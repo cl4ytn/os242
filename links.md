@@ -19,3 +19,9 @@ permalink: LINKS/
   This is a youtube video about formatting and mounting storage volumes. This was helpful because it helped me get more familliar with linux.
 * [the Linux File System explained in 1,233 seconds // Linux for Hackers // EP 2](https://www.youtube.com/watch?v=A3G-3hp88mo){:target="_blank"} ---
   This is a youtube video about the linux file system. It helped me understand where things are.
+* [Memory Management Using Paging](https://www.youtube.com/watch?v=kt4LkPFt8Zg){:target="_blank"} ---
+  This video explains memory management in operating systems. It helped me understand paging.
+* [Shared Objects In Linux - The Basics](https://www.youtube.com/watch?v=CqUuNCZMGJU){:target="_blank"} ---
+  This video explains how to manage library modules. It helped me understand how shared libraries work.
+* [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk){:target="_blank"} ---
+  This video explains the importance of Makefiles. Now, I can effectively use them.
