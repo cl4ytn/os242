@@ -25,3 +25,9 @@ permalink: LINKS/
   This video explains how to manage library modules. It helped me understand how shared libraries work.
 * [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk){:target="_blank"} ---
   This video explains the importance of Makefiles. Now, I can effectively use them.
+* [But, what is Virtual Memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I){:target="_blank"} ---
+  This video explains virtual memory. The graphics really helped me understand the concepts.
+* [Learn C memory addresses in 7 minutes](https://www.youtube.com/watch?v=1KVpi0VN82E){:target="_blank"} ---
+  This video is about memory addresses in C. It was very insightful because I dont know a lot about C.
+* [OS57 - Thrashing | Working Set](https://www.youtube.com/watch?v=cmloi8NSQgk){:target="_blank"} ---
+  This video is about thrashing and working sets. The explanations are very clear and concise.
