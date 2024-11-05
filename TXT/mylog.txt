@@ -35,3 +35,10 @@ ZCZC W06 45 L05 Preparing for quiz and studying
 ZCZC W06 15 L04 GitHub Pages related
 ZCZC W06 55 L32 YouTube: watching OS related topics, etc.
 ZCZC W06 30 L06 Reviewing resources for W06
+ZCZC W07 20 L03 GitHub related
+ZCZC W07 240 L09 Working on assignment W07 and Pop quizzes
+ZCZC W07 60 L06 Reviewing resources for W07
+ZCZC W07 60 L05 Preparing for quiz and studying
+ZCZC W07 20 L04 GitHub Pages related
+ZCZC W07 60 L32 YouTube: watching OS related topics, etc.
+
