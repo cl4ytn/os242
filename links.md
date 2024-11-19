@@ -55,3 +55,11 @@ permalink: LINKS/
   This article compares processes and threads, highlighting their differences in terms of memory management and execution. It talks about context switching and inter-thread communication which segues into parallelism.
 * [Real Time Operating System (RTOS)](https://www.geeksforgeeks.org/real-time-operating-system-rtos/){:target="_blank"} ---
   This article provides an explanation of Real-Time Operating Systems (RTOS), focusing on how they differ from general-purpose operating systems. It covers concepts, like task prioritization and deadline management, which emphasize RTOS's punctual execution.
+* [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/){:target="_blank"} ---
+  This article discusses primary and secondary storage, tertiary storage, the storage hierarhcy, memory management, caching, and I/O operations. This article was important because it helped me to undertand storage in operating systems.
+* [BIOS](https://en.wikipedia.org/wiki/BIOS){:target="_blank"} ---
+  This page extensively covers the Basic Input/Output System. I learned about its history, user interface, extensions, operation, os services, and configuration. This is a great source because I can always refer to it whenever I need to know about the BIOS.
+*[Static and Dynamic Loader in Operating System](https://www.geeksforgeeks.org/static-and-dynamic-loader-in-operating-system/){:target="_blank"} ---
+  From this article, I learned what a loader is and its types. This significantly boosted my learned thanks to its table comparing the differences between static and dynamic loaders
+* [systemd](https://en.wikipedia.org/wiki/Systemd){:target="_blank"} ---
+  From this page, I leared about the history, design, adoption, and implementations of systemd. This is a valuable source because of how much information it covers on the topic.
