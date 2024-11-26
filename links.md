@@ -63,3 +63,5 @@ permalink: LINKS/
   From this article, I learned what a loader is and its types. This significantly boosted my learned thanks to its table comparing the differences between static and dynamic loaders
 * [systemd](https://en.wikipedia.org/wiki/Systemd){:target="_blank"} ---
   From this page, I leared about the history, design, adoption, and implementations of systemd. This is a valuable source because of how much information it covers on the topic.
+* [Platform Controller Hub](https://en.wikipedia.org/wiki/Platform_Controller_Hub){:target="_blank"} ---
+  This wikipedia article helped me understand platform controller hubs a lot better. Specifically, it managing communications between the CPU, memory, storage, and peripheral devices.

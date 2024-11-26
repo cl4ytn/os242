@@ -53,4 +53,9 @@ ZCZC W09 300 L09 Working on assignment W09 and Pop quizzes
 ZCZC W09 30 L04 GitHub Pages related
 ZCZC W09 60 L05 Studying for quiz
 ZCZC W09 30 L40 TXT/ related in general
-
+ZCZC W10 60 L06 Reviewing resources for W10
+ZCZC W10 300 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 420 L09 Working on assignment W09 and Pop quizzes
+ZCZC W10 30 L04 GitHub Pages related
+ZCZC W10 60 L05 Studying for quiz
+ZCZC W10 30 L40 TXT/ related in general
